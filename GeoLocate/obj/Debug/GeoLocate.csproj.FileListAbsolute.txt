@@ -1,0 +1,7 @@
+c:\users\dagamboape\documents\visual studio 2015\Projects\GeoLocate\GeoLocate\bin\Debug\GeoLocate.exe.config
+c:\users\dagamboape\documents\visual studio 2015\Projects\GeoLocate\GeoLocate\obj\Debug\GeoLocate.csprojResolveAssemblyReference.cache
+c:\users\dagamboape\documents\visual studio 2015\Projects\GeoLocate\GeoLocate\bin\Debug\GeoLocate.exe
+c:\users\dagamboape\documents\visual studio 2015\Projects\GeoLocate\GeoLocate\bin\Debug\GeoLocate.pdb
+c:\users\dagamboape\documents\visual studio 2015\Projects\GeoLocate\GeoLocate\bin\Debug\Newtonsoft.Json.dll
+c:\users\dagamboape\documents\visual studio 2015\Projects\GeoLocate\GeoLocate\obj\Debug\GeoLocate.exe
+c:\users\dagamboape\documents\visual studio 2015\Projects\GeoLocate\GeoLocate\obj\Debug\GeoLocate.pdb
